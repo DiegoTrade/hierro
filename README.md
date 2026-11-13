@@ -4,7 +4,7 @@ A personal gym logbook for Diego. English exercise names with Spanish labels, ki
 
 Built with plain HTML, CSS and JavaScript. No package installation, build step, account or server database is required.
 
-Live app: [diegotrade.github.io/hierro](https://diegotrade.github.io/hierro/).
+Intended GitHub Pages address after publication: `https://diegotrade.github.io/hierro/`.
 
 ## Programme provenance
 
